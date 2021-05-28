@@ -1,4 +1,5 @@
-# Retouren-Plattform
+# Retouren-Plattform eines mobilen Zustellbasis-Systems (Modul 7)
+
 
 ## Einleitung
 
@@ -14,13 +15,13 @@ Die Logistikunternehmen sammeln ihre Pakete in den Distributionszentren und vert
 
 Um die oben genannten Probleme zu minimieren, wird im Rahmen der Fallstudie der Einsatz einer Logistikplattform, „City Hubs“, erarbeitet. Hierbei soll der City Hub eine einheitliche Zustellung aller Pakete in einem definierten Bezirk durch einen Versanddienstleister ermöglichen. Die Aufgabenstellung des City Hubs unterteilt sich dabei in die folgenden sieben Module:
 
-1. Paketdisposition, 
-2. Empfängerportal, 
-3. Lieferantenportal, 
-4. Stadtportal, 
-5. Zusteller-Portal, 
-6. Mobile Zustellbasen und
-7. Retoure.
+1. Paketdisposition
+2. Empfängerportal
+3. Lieferantenportal
+4. Stadtportal
+5. Zusteller-Portal
+6. Mobile Zustellbasen
+7. Retoure
 
 ## Beschreibung des Modules
 
@@ -31,7 +32,7 @@ Ziel des folgenden Konzeptes ist somit die Ausarbeitung einer Retouren-Plattform
 
 Der Fallstudie erfolgt in Kleingruppen. Zur Planung und Kommunikation der Arbeits- und Zeiteinteilung wurde das folgende Setup bzw. wurden die folgenden Tools benutzt:
 
-- Notion zum Protokollieren des Projektfortschrittes sowie als allgemeine Projektmanagementtool. Projektaufgaben wurden auf einem Kanban-Board erfasst und visualisiert; den möglichen Zuständen waren dabei {„Backlog“, „Active“,“Pending“,“Resolved“}. Eine Kopie des Protokolls und des Kanban-Boards steht als Markdown- bzw. HTML-Datei zur Verfügung. 
+- Notion zum Protokollieren des Projektfortschrittes sowie als allgemeine Projektmanagementtool. Projektaufgaben wurden auf einem Kanban-Board erfasst und visualisiert; den möglichen Zuständen waren dabei `{„Backlog“, „Active“,“Pending“,“Resolved“}`. Eine Kopie des Protokolls und des Kanban-Boards steht als Markdown- bzw. HTML-Datei zur Verfügung. 
 - Dropbox zum Speichern, Austausch und Versionsverwaltung der Projektdateien. 
 - Git bzw. GitHub Repository zur Versionsverwaltung lokaler Kopien des Projektes. Eine Kopie der Dateien ist unter der folgenden Repository zu finden: https://github.com/luiul/retouren-plattform 
 - Camunda BPM zur Geschäftsprozessmodellierung. Camunda BPM bietet auch ein open-source Workflow-Management-System an. Dieses System kann später im Projekt verwendet werden, beispielweise in der Implementierungsphase. 
